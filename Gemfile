@@ -28,3 +28,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Travis CI build
 gem "html-proofer"
 
+
+gem "webrick", "~> 1.8"
